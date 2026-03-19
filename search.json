@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "首页",
+    "section": "",
+    "text": "欢迎来到我的个人网站！这里记录我的学习历程和项目经验。\n\n\n\n\n🎓 专业：资源环境信息工程\n📍 地点：武汉\n💼 兴趣：数据分析、编程、Quarto\n🌱 正在学习：《数据驱动的可重复性研究》课程\n\n\n\n\n\nR语言 Python Quarto Git\n\n\n\n\n\n\n\n主题\n学习进度\n\n\n\n\n文学化编程\n⏳ 进行中\n\n\nQuarto基础\n📝 计划中\n\n\n数据可视化\n📝 计划中\n\n\n\n\n\n\n\n\n💻 GitHub: star0421\n📧 邮箱: 126354409@qq.com"
+  },
+  {
+    "objectID": "index.html#关于我",
+    "href": "index.html#关于我",
+    "title": "首页",
+    "section": "",
+    "text": "🎓 专业：资源环境信息工程\n📍 地点：武汉\n💼 兴趣：数据分析、编程、Quarto\n🌱 正在学习：《数据驱动的可重复性研究》课程"
+  },
+  {
+    "objectID": "index.html#技能标签",
+    "href": "index.html#技能标签",
+    "title": "首页",
+    "section": "",
+    "text": "R语言 Python Quarto Git"
+  },
+  {
+    "objectID": "index.html#课程学习笔记",
+    "href": "index.html#课程学习笔记",
+    "title": "首页",
+    "section": "",
+    "text": "主题\n学习进度\n\n\n\n\n文学化编程\n⏳ 进行中\n\n\nQuarto基础\n📝 计划中\n\n\n数据可视化\n📝 计划中"
+  },
+  {
+    "objectID": "index.html#联系我",
+    "href": "index.html#联系我",
+    "title": "首页",
+    "section": "",
+    "text": "💻 GitHub: star0421\n📧 邮箱: 126354409@qq.com"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "关于我",
+    "section": "",
+    "text": "你好！我是 霍晶晶，正在学习《数据驱动的可重复性研究》课程。\n\n学校：华中农业大学\n专业：资源环境信息工程\n学号：2025303110132\n\n\n\n\n\n\n安装并配置Quarto\n创建第一个Quarto网站\n掌握代码块和图表引用\n发布网站到GitHub Pages\n完成课程作业\n\n\n\n\n\nQuarto让我能够： - 将代码和文档整合在一起 - 生成可重复的研究报告 - 轻松创建个人网站 - 同时使用R和Python\n\n\n\n\n\n“好好学习，天天向上”"
+  },
+  {
+    "objectID": "about.html#个人简介",
+    "href": "about.html#个人简介",
+    "title": "关于我",
+    "section": "",
+    "text": "你好！我是 霍晶晶，正在学习《数据驱动的可重复性研究》课程。\n\n学校：华中农业大学\n专业：资源环境信息工程\n学号：2025303110132"
+  },
+  {
+    "objectID": "about.html#学习目标",
+    "href": "about.html#学习目标",
+    "title": "关于我",
+    "section": "",
+    "text": "安装并配置Quarto\n创建第一个Quarto网站\n掌握代码块和图表引用\n发布网站到GitHub Pages\n完成课程作业"
+  },
+  {
+    "objectID": "about.html#为什么学习quarto",
+    "href": "about.html#为什么学习quarto",
+    "title": "关于我",
+    "section": "",
+    "text": "Quarto让我能够： - 将代码和文档整合在一起 - 生成可重复的研究报告 - 轻松创建个人网站 - 同时使用R和Python"
+  },
+  {
+    "objectID": "about.html#个人格言",
+    "href": "about.html#个人格言",
+    "title": "关于我",
+    "section": "",
+    "text": "“好好学习，天天向上”"
+  }
+]
