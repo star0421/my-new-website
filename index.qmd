@@ -1,0 +1,42 @@
+---
+title: "首页"
+---
+
+# 👋 你好，我是 霍晶晶
+
+欢迎来到我的个人网站！这里记录我的学习历程和项目经验。
+
+---
+
+## 📊 关于我
+
+- 🎓 **专业**：资源环境信息工程
+- 📍 **地点**：武汉
+- 💼 **兴趣**：数据分析、编程、Quarto
+- 🌱 **正在学习**：《数据驱动的可重复性研究》课程
+
+---
+
+## 🛠️ 技能标签
+
+<span style="background: #007bff; color: white; padding: 5px 15px; border-radius: 20px; margin: 5px; display: inline-block;">R语言</span>
+<span style="background: #007bff; color: white; padding: 5px 15px; border-radius: 20px; margin: 5px; display: inline-block;">Python</span>
+<span style="background: #007bff; color: white; padding: 5px 15px; border-radius: 20px; margin: 5px; display: inline-block;">Quarto</span>
+<span style="background: #007bff; color: white; padding: 5px 15px; border-radius: 20px; margin: 5px; display: inline-block;">Git</span>
+
+---
+
+## 📚 课程学习笔记
+
+| 主题 | 学习进度 |
+|------|----------|
+| 文学化编程 | ⏳ 进行中 |
+| Quarto基础 | 📝 计划中 |
+| 数据可视化 | 📝 计划中 |
+
+---
+
+## 📬 联系我
+
+- 💻 GitHub: [star0421](https://github.com/star0421)
+- 📧 邮箱: 126354409@qq.com
